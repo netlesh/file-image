@@ -1,0 +1,1 @@
+config.resolve.alias.set('@directus/app', path.resolve(__dirname, './node_modules/directus/app/src'))
